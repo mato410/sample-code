@@ -1,0 +1,6 @@
+git init
+git add . (bodka ak vsetko vo foldri alebo namiesto bodky nazov suboru)
+git commit -m "xxx" (v uvodzovkach komentar ku commitu )
+git branch -m main
+git push -u origin main
+Hotovo?
